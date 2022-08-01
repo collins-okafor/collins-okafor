@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👀 I'm interested in JavaScript Programming, Web Development, Python Programming, Data Science and Machine Learning, Mechatronics, and Robotics.
+- 👀 I'm Software developer with stack in JavaScript, React, Typescript, Nextjs, Nodejs, Python, HTML, CSS, Machine Learning, Mechatronics, and Robotics.
 - 🔭 I’m currently working on a MERN project - an attendance register for a company.
 - 👯 I’m looking to collaborate on interfacing APIs with websites.
 - ⚡ Ask me about Nodejs, JavaScript, Robotics...
