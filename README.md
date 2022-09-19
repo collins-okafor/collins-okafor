@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 👀 I'm Software developer with stack in C#, .NetFrameworks, JavaScript, React, Typescript, Nextjs, Nodejs, Python, HTML, CSS, Machine Learning, Mechatronics, and Robotics.
 - 🔭 I’m currently working on...
-- 👯 I’m looking to collaborate on interfacing APIs with websites.
+- 👯 I look forward to collaborate on interfacing APIs with websites.
 - ⚡ Ask me about .Net, JavaScript, Robotics...
 - 📫 Reach me through my email @collinszurum@gmail.com
 
