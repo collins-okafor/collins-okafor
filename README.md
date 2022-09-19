@@ -1,4 +1,4 @@
-- 👋 Hi there, I'm Collins...
+- 👋 Hi, Collins here...
 
 <!--
 **collins-okafor/collins-okafor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👀 I'm Software developer with stack in JavaScript, React, Typescript, Nextjs, Nodejs, Python, HTML, CSS, Machine Learning, Mechatronics, and Robotics.
-- 🔭 I’m currently working on a MERN project - an attendance register for a company.
+- 👀 I'm Software developer with stack in C#, .NetFrameworks, JavaScript, React, Typescript, Nextjs, Nodejs, Python, HTML, CSS, Machine Learning, Mechatronics, and Robotics.
+- 🔭 I’m currently working on...
 - 👯 I’m looking to collaborate on interfacing APIs with websites.
-- ⚡ Ask me about Nodejs, JavaScript, Robotics...
-- 📫 How to reach me: Through my email @collinszurum@gmail.com
+- ⚡ Ask me about .Net, JavaScript, Robotics...
+- 📫 Reach me through my email @collinszurum@gmail.com
 
