@@ -1,6 +1,15 @@
 
 ### Hi there 👋
 
+- 👀 I'm Software developer with stack in C#, .Net, JavaScript, and Python
+- 👯 I look forward to collaborate on C# and .Net projects.
+- ⚡ Ask me about .Net, JavaScript, Robotics...
+- 📫 How to reach me: collinszurum@gmail.com
+
+
+[![Collins' GitHub stats](https://github-readme-stats.vercel.app/api?username=collins-okafor&show_icons=true&theme=dark&count_private=true)](https://github.com/collins-okafor/github-readme-stats&show_icons=true&theme=dark&count_private=true)
+
+
 #### Technologies and Tools
 
 <p>
@@ -13,11 +22,3 @@
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"/>
 </p>
-
-- 👀 I'm Software developer with stack in C#, .Net, JavaScript, and Python
-- 👯 I look forward to collaborate on C# and .Net projects.
-- ⚡ Ask me about .Net, JavaScript, Robotics...
-- 📫 How to reach me: collinszurum@gmail.com
-
-
-[![Collins' GitHub stats](https://github-readme-stats.vercel.app/api?username=collins-okafor&show_icons=true&theme=dark&count_private=true)](https://github.com/collins-okafor/github-readme-stats&show_icons=true&theme=dark&count_private=true)
