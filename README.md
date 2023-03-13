@@ -1,22 +1,23 @@
-<!--  - 👋 Hi, Collins here... -->
 
-<!--
-**collins-okafor/collins-okafor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
 
-Here are some ideas to get you started:
+#### Technologies and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src ="https://img.shields.io/badge/react-%2307405e.svg?&style=for-the-badge&logo=dev&logoColor=white"/>
+  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mongodb%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"/>
+</p>
 
-- 👀 I'm Software developer with stack in C#, .Net, JavaScript, Python, Mechatronics, and Robotics.
-- 👯 I look forward to collaborate on interfacing APIs with websites.
+- 👀 I'm Software developer with stack in C#, .Net, JavaScript, and Python
+- 👯 I look forward to collaborate on C# and .Net projects.
 - ⚡ Ask me about .Net, JavaScript, Robotics...
-- 📫 Reach me through my email @collinszurum@gmail.com
+- 📫 How to reach me: collinszurum@gmail.com
 
+
+[![Collins' GitHub stats](https://github-readme-stats.vercel.app/api?username=collins-okafor&show_icons=true&theme=dark&count_private=true)](https://github.com/collins-okafor/github-readme-stats&show_icons=true&theme=dark&count_private=true)
