@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 - 👀 I'm Software developer with stack in C#, .Net, JavaScript, and Python
-- 👯 I look forward to collaborate on C# and .Net projects.
+- 👯 I’m looking to collaborate on flutter projects
 - ⚡ Ask me about .Net, JavaScript, Robotics...
 - 📫 How to reach me: collinszurum@gmail.com
 
