@@ -3,7 +3,7 @@
 
 - 👀 I'm Software developer with stack in C#, .Net, JavaScript, and Python
 - 👯 I’m looking to collaborate on .Net projects
-- ⚡ Ask me about .Net, JavaScript, Robotics...
+- ⚡ Interested in .Net, JavaScript, Robotics...
 - 📫 How to reach me: collinszurum@gmail.com
 
 
