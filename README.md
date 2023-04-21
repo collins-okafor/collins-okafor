@@ -21,3 +21,6 @@
   <img src ="https://img.shields.io/badge/react-%2307405e.svg?&style=for-the-badge&logo=dev&logoColor=white"/>
   <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"/>
 </p>
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=collins-okafor&show_icons=true&locale=en&layout=compact" alt="collins-okafor" /></p>
