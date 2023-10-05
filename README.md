@@ -1,9 +1,9 @@
 
 ### Hi there 👋
 
-- 👀 Software developer with stack in C#, .Net, JavaScript, and Python
-- 👯 I’m looking to collaborate on .Net projects
-- ⚡ Interested in .Net, C#, JavaScript, Robotics...
+- 👀 Software developer
+- 👯 I’m looking to collaborate on projects
+- ⚡ Interested in .Net, C#, Solidity, Web3, Blockchain, JavaScript, Robotics...
 - 📫 How to reach me: collinszurum@gmail.com
 
 <!--
