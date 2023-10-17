@@ -6,9 +6,8 @@
 - ⚡ Interested in .Net, C#, Solidity, Web3, Blockchain, JavaScript, Robotics...
 - 📫 How to reach me: collinszurum@gmail.com
 
-<!--
+
 [![Collins' GitHub stats](https://github-readme-stats.vercel.app/api?username=collins-okafor&show_icons=true&theme=dark&count_private=true)](https://github.com/collins-okafor/github-readme-stats&show_icons=true&theme=dark&count_private=true)
--->
 
 
 #### Technologies and Tools
