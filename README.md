@@ -4,7 +4,7 @@
 - 👀 Software developer
 - 👯 I’m looking to collaborate on projects
 - ⚡ Interested in .Net, C#, Rust, Bitcoin, Web3, Blockchain...
-- 📫 How to reach me: collinszurum@gmail.com
+- 📫 Reach me @ collinszurum@gmail.com
 
 <!--
 [![Collins' GitHub stats](https://github-readme-stats.vercel.app/api?username=collins-okafor&show_icons=true&theme=dark&count_private=true)](https://github.com/collins-okafor/github-readme-stats&show_icons=true&theme=dark&count_private=true)
