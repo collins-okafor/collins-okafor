@@ -3,7 +3,7 @@
 
 - 👀 Software developer
 - 👯 I’m looking to collaborate on projects
-- ⚡ Interested in .Net, C#, Bitcoin, Web3, Blockchain, JavaScript, Robotics...
+- ⚡ Interested in .Net, C#, Rust, Bitcoin, Web3, Blockchain...
 - 📫 How to reach me: collinszurum@gmail.com
 
 <!--
