@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-- ⚡ Interested in .Net, C#, Rust, Bitcoin, Web3, Blockchain...
+- ⚡ Interest in .Net, C#, Rust, Bitcoin, Web3, Blockchain...
 - 📫 Reach me @ collinszurum@gmail.com
 
 
